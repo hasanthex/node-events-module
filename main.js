@@ -16,4 +16,3 @@ myLogger.on('eventFromLogModule', function(args){
 
 // invoked userLog method from Log Module.
 myLogger.userLog('This is my Message');
-
