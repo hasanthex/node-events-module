@@ -1,1 +1,1 @@
-# node-events-module
+# Events Module
