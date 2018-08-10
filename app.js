@@ -8,3 +8,4 @@ myEmitter.on('EventRaised', function(){
 
 // Raised An Event
 myEmitter.emit('EventRaised');
+
